@@ -1,0 +1,39 @@
+
+g
+java:S1192	"JDefine a constant instead of duplicating this literal " |     |
+" 8 times.(‡“Œ8 «ÇˆÒ1
+l
+java:S1192"JDefine a constant instead of duplicating this literal " |     O
+" 6 times.(„™á—ÿÿÿÿÿ8 «ÇˆÒ1
+n
+java:S1192+"LDefine a constant instead of duplicating this literal " |    /|\\
+" 3 times.(Ù›—Ïüÿÿÿÿ8¡«ÇˆÒ1
+l
+java:S1192"JDefine a constant instead of duplicating this literal " _______
+" 7 times.(Íì©ûÿÿÿÿ8¡«ÇˆÒ1
+u	java:S115@"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¨ŞÊS8ª¬ÇˆÒ1
+T
+java:S6126"2Replace this String concatenation with Text block.(Íì©ûÿÿÿÿ8¹¬ÇˆÒ1
+T
+java:S6126"2Replace this String concatenation with Text block.(Íì©ûÿÿÿÿ8¹¬ÇˆÒ1
+T
+java:S6126"2Replace this String concatenation with Text block.(Íì©ûÿÿÿÿ8¹¬ÇˆÒ1
+T
+java:S6126 "2Replace this String concatenation with Text block.(Íì©ûÿÿÿÿ8¹¬ÇˆÒ1
+T
+java:S6126("2Replace this String concatenation with Text block.(Íì©ûÿÿÿÿ8º¬ÇˆÒ1
+T
+java:S61260"2Replace this String concatenation with Text block.(Íì©ûÿÿÿÿ8º¬ÇˆÒ1
+T
+java:S61268"2Replace this String concatenation with Text block.(Íì©ûÿÿÿÿ8º¬ÇˆÒ1
+G	java:S106O"+Replace this use of System.out by a logger.(ÁøËê8Ô¬ÇˆÒ1
+G	java:S106U"+Replace this use of System.out by a logger.(Äğ¯Å8Ø¬ÇˆÒ1
+G	java:S106f"+Replace this use of System.out by a logger.(ü†ï»8ã¬ÇˆÒ1
+L	java:S106v"+Replace this use of System.out by a logger.(ØÎáœúÿÿÿÿ8è¬ÇˆÒ1
+M	java:S106‚"+Replace this use of System.out by a logger.(á¸›şÿÿÿÿ8ì¬ÇˆÒ1
+H	java:S106Š"+Replace this use of System.out by a logger.(ŞèÇÁ8î¬ÇˆÒ1
+M	java:S106˜"+Replace this use of System.out by a logger.(ÇèÇİıÿÿÿÿ8ñ¬ÇˆÒ1
+M	java:S106™"+Replace this use of System.out by a logger.(ÃÈîéûÿÿÿÿ8ò¬ÇˆÒ1
+M	java:S106"+Replace this use of System.out by a logger.(ù‚ä‹şÿÿÿÿ8ó¬ÇˆÒ1
+J
+java:S1128"(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ8÷¬ÇˆÒ1
